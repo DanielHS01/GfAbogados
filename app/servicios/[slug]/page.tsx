@@ -50,7 +50,7 @@ export default async function ServicePage({
             </p>
           </div>
 
-          {/* IMAGEN */}
+          {/* IMAGEN
           <div className="h-75 md:h-105 lg:h-full">
             <img
               src={`/Images/services/${service.slug}.jpg`}
@@ -58,6 +58,7 @@ export default async function ServicePage({
               className="w-full h-full object-cover"
             />
           </div>
+          */}
 
         </div>
       </section>
