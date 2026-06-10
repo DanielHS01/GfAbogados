@@ -164,7 +164,7 @@ export default async function ServicePage({
                 <div className="space-y-3">
 
                   <a
-                    href="https://wa.me/573001234567"
+                    href="https://wa.me/3125373231"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 py-3 bg-green-600 hover:bg-green-500 rounded-xl font-semibold transition-colors"
@@ -198,7 +198,7 @@ export default async function ServicePage({
                 </span>
 
                 <p className="mt-2 text-xl font-bold text-slate-900">
-                  +57 (300) 123-4567
+                  +57 3125373231
                 </p>
 
                 <p className="mt-1 text-sm text-slate-500">

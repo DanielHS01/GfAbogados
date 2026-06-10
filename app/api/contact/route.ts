@@ -17,7 +17,7 @@ export async function POST(req: Request) {
     }
 
     await resend.emails.send({
-      from: 'onboarding@resend.dev',
+      from: 'GFA Abogados <contacto@gfabogados.co>',
       to: process.env.CONTACT_EMAIL!,
       subject: 'Nueva consulta desde la web',
       replyTo: email,

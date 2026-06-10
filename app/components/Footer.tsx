@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="md:col-span-5 flex flex-col items-start space-y-5">
             <div className="flex items-center gap-3">
               <Link href="/#inicio">
-            <Image src="/Images/LogoCompletoOscuro.png" alt="Logo" width={200} height={100} />
+            <Image src="/Images/Logo.png" alt="Logo" width={200} height={100} />
           </Link>
             </div>
             
@@ -64,21 +64,21 @@ export default function Footer() {
               <li className="flex items-start gap-3 group">
                 <LuMapPin className="h-5 w-5 text-cyan-400 mt-0.5 shrink-0" />
                 <span className="text-slate-300 group-hover:text-white transition-colors">
-                  Carrera 1 #1-1, Facatativá, Cundinamarca
+                  Calle 8 # 4-88, Oficina 201, Edificio Asturias, Facatativá
                 </span>
               </li>
 
               <li className="flex items-center gap-3 group">
                 <LuPhone className="h-5 w-5 text-cyan-400 shrink-0" />
-                <a href="tel:+571234567890" className="text-slate-300 group-hover:text-white transition-colors">
-                  +57 1234567890
+                <a href="tel:+573125373231" className="text-slate-300 group-hover:text-white transition-colors">
+                  +57 3125373231
                 </a>
               </li>
 
               <li className="flex items-center gap-3 group">
                 <LuMail className="h-5 w-5 text-cyan-400 shrink-0" />
                 <a href="mailto:contacto@lexabogados.co" className="text-slate-300 group-hover:text-white transition-colors break-all">
-                  contacto@camilogarcia.co
+                  camilogarcia_@hotmail.com
                 </a>
               </li>
             </ul>
@@ -87,7 +87,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 text-center text-xs text-slate-500 tracking-wide">
-          <p>&copy; {currentYear} Camilo García. Todos los derechos reservados.</p>
+          <p>&copy; {currentYear} GF Abogados. Todos los derechos reservados.</p>
         </div>
 
       </div>

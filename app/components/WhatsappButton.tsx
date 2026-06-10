@@ -3,7 +3,7 @@
 import { FaWhatsapp } from 'react-icons/fa6'; // Actualizado a fa6 para consistencia
 
 export default function WhatsAppButton() {
-  const phone = '573001234567';
+  const phone = '3125373231';
   const message = encodeURIComponent(
     'Hola, me gustaría recibir asesoría jurídica.'
   );
