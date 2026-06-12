@@ -108,7 +108,7 @@ export default function Footer() {
                   href="mailto:contacto@lexabogados.co"
                   className="text-slate-300 group-hover:text-white transition-colors break-all"
                 >
-                  camilogarcia_@hotmail.com
+                  info@gfabogados.co
                 </a>
               </li>
             </ul>
